@@ -4,7 +4,7 @@ A clean, responsive landing page for EvoDeploy – a frictionless CI/CD solution
 
 ## 🌐 Live Demo
 
-[🔗 Click here to view the live site](https://yourusername.github.io/evo-deploy-landing)
+[🔗 Click here to view the live site](https://wissgupta.github.io/evo-deploy-landing/)
 
 ## 💡 Key Features
 
